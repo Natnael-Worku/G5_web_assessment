@@ -1,6 +1,8 @@
 Blog Application
 Welcome to the Blog Application! This project is a blog management system that includes search, pagination, and detailed blog reading features. Users can search for blogs, navigate through pages of blog entries, and click on individual blogs to read their full content.
 
+### Vercel Link 
+https://g5-web-assessment-seven.vercel.app/blogs
 
 ## Images
 # Image of blogs page
